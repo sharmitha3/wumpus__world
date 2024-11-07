@@ -1,6 +1,4 @@
 <h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
-<h3>Name: MOHAMMED SAAJID S             </h3>
-<h3>Register Number: 212223240093                </h3>
 <H3>Aim:</H3>
 <p>
     To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
@@ -149,7 +147,8 @@ while(player):
 
 ## Output:
 
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/edf5f311-8817-4a84-9da0-7b53c723a879)
+
 
 
 ## Result: 
